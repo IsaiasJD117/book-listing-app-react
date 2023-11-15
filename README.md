@@ -10,7 +10,8 @@ Must have node.js installed on your system
 2. Install required dependencies:
 Open terminal/ command line in project folder and run the following command:
 npm install
-3. To run on local environment execute in terminal run
+3. Add Developer key and secret to .env file
+4.  To run on local environment execute in terminal run
 npm start in the root directory and then open new terminal in the client directory and run npm start
-4. Open browser the application should be running on localhost:3000 if not check console log to see what port the server is running on
-5. Search a book name in the search bar and press enter or click the search button
+5. Open browser the application should be running on localhost:3000 if not check console log to see what port the server is running on
+6. Search a book name in the search bar and press enter or click the search button
