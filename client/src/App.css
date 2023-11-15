@@ -1,0 +1,49 @@
+.app {
+  text-align: center;
+  background-color: aqua;
+  padding: 2rem;
+}
+
+input {
+  height: 2rem;
+}
+
+a {
+color: blue;
+}
+a:link {
+    color:blue;
+    text-decoration: underline;
+}
+a:visited {
+    color:red;
+}
+a:hover {
+    transform: scaleX(125%);
+}
+a:active {
+    color:red;
+}
+
+button {
+background: green;
+color: white;
+border: solid 1px;
+border-radius: 2em;
+font: inherit;
+padding: 0.75em 2em;
+margin: 10px;
+}
+button:hover {
+color: red;
+}
+ul{
+    list-style: none;
+    margin-right: 2rem;
+    margin-left: 1rem;
+}
+ul li {
+    border-style: dotted;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
